@@ -88,8 +88,6 @@
 
 "Random Number Generator" - A static javascript app that will generate a random number built in HTML,CSS and JAVASCRIPT deployed in GCP Compute Instance (Apache2) using github action.
 
-<hr/>
-
 ## 🧑‍🎓 Learning
 
   Current:
