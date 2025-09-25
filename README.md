@@ -10,64 +10,65 @@
 - 🌱 I'm on the path for learning more about Cloud Technologies, Web Development and Data Science.
   
 
-## 🔤 Languages
+## Languages and Tools
+
+#### 🔤 Languages
 
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C SHARP"  alt="C SHARP" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET"  alt=".NET" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS"  alt="ExpressJS" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS"  alt="ExpressJS" width="40" height="40"/>&nbsp;
   <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXyyJ1RlAXSseSWgtyP7gssKzZF_XVkmrww&s" title="ZPL"  alt="ZPL" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript"  alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="Html"  alt="Html" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="Css"  alt="Css" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html"  alt="Html" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css"  alt="Css" width="40" height="40"/>&nbsp;
  </div>
 
-## 🗄️Databases
+#### 🗄️Databases
 
   <div>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL"  alt="MSSQL" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="SqlLite"  alt="SqlLite" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="MSSQL"  alt="MSSQL" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SqlLite"  alt="SqlLite" width="40" height="40"/>&nbsp;
   </div>
 
- ## ⬇️ Low Code
+ #### ⬇️ Low Code
  
  <div>
    <img src = "https://www.outsystems.com/Forge_BL/rest/ComponentThumbnail/GetURL_ComponentThumbnail?ProjectImageId=24252" title="Outsystem"  alt="Outsystem" width="40" height="40"/>&nbsp;
   <img src = "https://docs.flutterflow.io/logos/logoMark_outlinePrimary_transparent.svg" title="FlutterFlow"  alt="FlutterFlow" width="40" height="40"/>&nbsp;
  </div>
  
- ## ☁️ Computing
+ #### ☁️ Computing
  
  <div>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="GCP"  alt="GCP" width="40" height="40"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
  </div>
 
- ## 🧰 Tools
+ #### 🧰 Tools
  
  <div>
    
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket"  alt="BitBucket" width="40" height="40"/>&nbsp;
    <img src = "https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira"  alt="Jira" width="40" height="40"/>&nbsp;
-   <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PhotoShop"  alt="PhotoShop" width="40" height="40"/>&nbsp;
-<img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;  
+   <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="PhotoShop"  alt="PhotoShop" width="40" height="40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;  
     <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code"  alt="VS Code" width="40" height="40"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
     
  </div>
 
-## 🧪 Testing
+#### 🧪 Testing
 
   <div>
-    
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
   </div>
 
-## 📰 Reporting
+#### 📰 Reporting
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg" title="Crystal Report"  alt="Crystal Report" width="40" height="40"/>&nbsp;
   <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMIzlR7EyY0azkzalDi0pNlUbvIbfzpZEnag&s" title="bartender"  alt="bartender" width="40" height="40"/>&nbsp;
