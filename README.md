@@ -1,4 +1,3 @@
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/cbacb71a-0ec2-4181-996f-ccaf0e9ef9df" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/141b5588-bca3-4152-a88b-7b42ca68e0e7" />
 
 <div align="center">
   <img src="https://media.giphy.com/media/eJvsB9z0EJPIbsFz7k/giphy-downsized-large.gif" width="900" height="300"/>
@@ -74,6 +73,7 @@
     <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCxlbUkfj5jDHQT5afB9Ljcd2oegQ2ZgmUFQ&s" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" title="PowerBI"  alt="PowerBI" width="40" height="40"/>&nbsp;
   </div>
+  
 #### 📰 Reporting
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg" title="Crystal Report"  alt="Crystal Report" width="40" height="40"/>&nbsp;
