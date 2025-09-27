@@ -65,7 +65,7 @@
 
   <div>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-    <img src = "https://www.iconarchive.com/download/i149134/simpleicons-team/simple/apache-jmeter.1024.png" title="JMeter"  alt="JMeter" width="40" height="40"/>&nbsp;
+    <img src = "https://jmeter.apache.org/images/jmeter_square.png" title="JMeter"  alt="JMeter" width="40" height="40"/>&nbsp;
   </div>
 
 #### 📊 BI Tool
@@ -91,12 +91,14 @@
 ## 🧑‍🎓 Learning
 
   Current:
+  
     + Deep Dive in Containerization (Docker)
     + Exploring Azure Services
 
 ## 🤙 Get in touch
 
 Connect with me!
+
     + LinkedIn - https://www.linkedin.com/in/jomar-mirabeles
     + Github - https://github.com/Jey-Emm/
     + Personal Email: jm.mirabeles@outlook.com
