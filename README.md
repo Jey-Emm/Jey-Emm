@@ -9,7 +9,7 @@
 - 🌱 I'm on the path for learning more about Cloud Technologies, Web Development and Data Science.
   
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 #### 🔤 Languages
 
